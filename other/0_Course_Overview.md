@@ -1,6 +1,4 @@
-# DU AI Bootcamp Course Overview
-
-## Table of Contents
+## Class Notes Table of Contents
 
 -   [Course Overview](README.md)
 -   [Tool Setup](1_DU_tool_setup.md)
@@ -11,6 +9,10 @@
 -   [Further Reading and Helpful Links](3_Further_Reading_and_Helpful_Links.md)
 -   [Articles & Subscriptions](4_Articles_and_subscriptions.md)
 -   [Career Engagement](6_Useful_Python.md)
+
+----------------------------------------------
+
+# DU AI Bootcamp Course Overview
 
 ## Schedule
 
