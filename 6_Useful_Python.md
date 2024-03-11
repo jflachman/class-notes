@@ -14,6 +14,13 @@
 
 # Useful Python Stuff
 
+## Clearing the screen
+```
+import os
+ 
+# Clearing the Screen
+os.system('cls')
+```
 ## Check value type
 ```
 if type(mydict) is dict:

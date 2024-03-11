@@ -9,6 +9,7 @@
 -   [Tool Setup Windows - alternate setup](1.2.1_DU_tool_setup_windows_WSL.md)
 -   [Online Research Tips](2_Online_Research_Tips.md)
 -   [Further Reading and Helpful Links](3_Further_Reading_and_Helpful_Links.md)
+    -   [Python, Numpy, Pandas, Scipy cheatsheet](5.1_scientific_python_cheat_sheet_by_IPGP.md)
 -   [Articles & Subscriptions](4_Articles_and_subscriptions.md)
 -   [Career Engagement](6_Useful_Python.md)
 
