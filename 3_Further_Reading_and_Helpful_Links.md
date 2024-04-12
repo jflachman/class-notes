@@ -4,20 +4,34 @@ tags: []
 source: https://bootcampspot.instructure.com/courses/5432/pages/1-further-reading-and-helpful-links?module_item_id=1200095
 author: 
 ---
-## Class Notes Table of Contents
+
+# Futher Reading and Helpful Links
+
+
+### DU Class Notes Table of Contents
+
+----------------------------------------------
 
 -   [Course Overview](README.md)
 -   [Tool Setup](1_DU_tool_setup.md)
--   [Tool Setup Mac](1.1_DU_tool_setup_mac.md)
--   [Tool Setup Windows](1.2_DU_tool_setup_windows.md)
--   [Tool Setup Windows - alternate setup](1.2.1_DU_tool_setup_windows_WSL.md)
--   [Online Research Tips](2_Online_Research_Tips.md)
--   [Further Reading and Helpful Links](3_Further_Reading_and_Helpful_Links.md)
--   [Articles & Subscriptions](4_Articles_and_subscriptions.md)
--   [Career Engagement](6_Useful_Python.md)
+    -   [Tool Setup - Mac](1.1_DU_tool_setup_mac.md)
+    -   [Tool Setup - Windows](1.2_DU_tool_setup_windows.md)
+        -   [Windows - alternate setup using wsl](1.2.1_DU_windows_alternate_install_using_wsl.md)
+        -   [Tool Setup - Windows WSL](1.2.2_DU_tool_setup_wsl.md)
+-   [Online Research Tips](2_online_research_tips.md)
+-   [Further Reading and Helpful Links](3_further_reading_and_helpful_links.md)
+    -   [Cheatsheets & Tips](3.1_cheatsheets_and_tips.md)
+        -   [Scientific python cheatsheet by IPGD](3.1.1_scientific_python_cheat_sheet_by_IPGP.md)
+        -   [Useful Python tips](3.1.2_useful_python.md)
+    -   [Books](3.2_books.md)
+    -   [Articles](3.3_articles.md)
+    -   [Subscriptions](3.4_subscriptions)
+-   [Career Engagement](4_career_engagement.md)
 
 ----------------------------------------------
-# Futher Reading and Helpful Links
+
+
+## Introduction
 
 To excel in the fields of machine learning and AI, you must do more than just grasp the fundamentals; you must apply that knowledge in practical, real-world scenarios. This module equips you with essential Python programming skills, teaching you to skillfully use variables, data types, data structures, mathematical operations, string manipulation, user input handling, input validation, and decision-making using various control structures.
 

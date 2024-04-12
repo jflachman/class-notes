@@ -1,6 +1,6 @@
+# Career Engagement
 
-
-# DU AI Bootcamp tool setup overview
+### DU Class Notes Table of Contents
 
 
 ### DU Class Notes Table of Contents
@@ -25,29 +25,3 @@
 
 ----------------------------------------------
 
-
-## Setup Overview
-
-### Accounts
-- Create Github account
-- Create Gitlab account
-
-### Tool Installs
-
-- Terminal
-    - Install Git Bash (windows)
-    - Mac will use Terminal
-- Install Git
-- Install Anaconda
-
-### Configurations
-
-- Create SSH keys
-- Configure Github
-- Configure Gitlab
-
-## Setup Details
-
--   [Mac setup](1.1_DU_tool_setup_mac.md)
--   [Windows setup](1.2_DU_tool_setup_windows.md)
--   [Advanced - Alternate Windows setup with WSL](1.2.1_DU_tool_setup_windows_WSL.md) - *Note:* Student provided and not supported by DU AI Bootcamp team.  i.e. you are on your own with this one...
