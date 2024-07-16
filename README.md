@@ -1,6 +1,3 @@
-# DU AI Bootcamp Course Overview
-
-
 ### DU Class Notes Table of Contents
 
 ----------------------------------------------
@@ -11,8 +8,11 @@
     -   [Tool Setup - Windows](1.2_DU_tool_setup_windows.md)
         -   [Windows - alternate setup using wsl](1.2.1_DU_windows_alternate_install_using_wsl.md)
         -   [Tool Setup - Windows WSL](1.2.2_DU_tool_setup_wsl.md)
+        -   [Window - alternative setup using docker](1.2.3_DU_tool_setup_docker.md)
 -   [Online Research Tips](2_online_research_tips.md)
 -   [Further Reading and Helpful Links](3_further_reading_and_helpful_links.md)
+    -   [See the great work by Matt Watkins collecting examples](https://github.com/MWatkins87/Class_Glossery.git).  Sorry ***example links*** only accessible to students of the DU AI Courses.
+    -   [Resources](3.0_resources.md)
     -   [Cheatsheets & Tips](3.1_cheatsheets_and_tips.md)
         -   [Scientific python cheatsheet by IPGD](3.1.1_scientific_python_cheat_sheet_by_IPGP.md)
         -   [Useful Python tips](3.1.2_useful_python.md)
@@ -20,8 +20,13 @@
     -   [Articles](3.3_articles.md)
     -   [Subscriptions](3.4_subscriptions)
 -   [Career Engagement](4_career_engagement.md)
+-   [Data Sources](data_sources.md)
 
 ----------------------------------------------
+
+
+
+# DU AI Bootcamp Course Overview
 
 
 ## Schedule
